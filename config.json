@@ -1,7 +1,4 @@
 {
-  "youtube": {
-    "client_secrets_file": "client_secret.json"
-  },
   "video_schedule_hours": 3,
   "voice_lang": "en",
   "output_path": "videos/",
